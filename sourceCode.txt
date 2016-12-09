@@ -1,0 +1,9 @@
+CLASS clasesilla BEGIN
+
+INTEGER a;
+
+FOR( a = 1 ; ( 5 + 5 ))
+	PRINT( a );
+ENDFOR
+
+ENDCLASS

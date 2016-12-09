@@ -1,0 +1,50 @@
+100 : <CLASS, reserved_word>
+
+119 : <clasesilla, identifier>
+
+101 : <BEGIN, reserved_word>
+
+103 : <INTEGER, reserved_word>
+
+119 : <a, identifier>
+
+145 : <;, semicolon(expression_ending)>
+
+115 : <FOR, reserved_word>
+
+140 : <(, opening_parenthesis>
+
+119 : <a, identifier>
+
+130 : <=, assignment_operator>
+
+120 : <1, integer>
+
+145 : <;, semicolon(expression_ending)>
+
+140 : <(, opening_parenthesis>
+
+120 : <5, integer>
+
+125 : <+, aritmetic_operator>
+
+120 : <5, integer>
+
+141 : <), closing_parenthesis>
+
+141 : <), closing_parenthesis>
+
+109 : <PRINT, reserved_word>
+
+140 : <(, opening_parenthesis>
+
+119 : <a, identifier>
+
+141 : <), closing_parenthesis>
+
+145 : <;, semicolon(expression_ending)>
+
+116 : <ENDFOR, reserved_word>
+
+102 : <ENDCLASS, reserved_word>
+
